@@ -6,6 +6,16 @@ AlertaPorVoz is an Android application designed to provide **voice-based notific
 
 This repository currently serves as a **project showcase and technical portfolio**. The commercial application source code is not publicly available.
 
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="2.jpeg" width="150" alt="AlertaPorVoz screenshot 1"/>
+  <img src="5.jpeg" width="150" alt="AlertaPorVoz screenshot 2"/>
+  <img src="7.png" width="150" alt="AlertaPorVoz screenshot 3"/>
+  <img src="9.jpg" width="150" alt="AlertaPorVoz screenshot 4"/>
+  <img src="10.jpg" width="150" alt="AlertaPorVoz screenshot 5"/>
+</p>
+
 ## 📱 Main Features
 
 * Voice announcement of Android notifications
